@@ -83,8 +83,12 @@ python -m torch.distributed.launch --master_port=[port] --nproc_per_node=[node_n
 ### 5. Extra
 
 1. The implementation of Att-VGG-SNN in https://github.com/ridgerchu/SNN_Attention_VGG
+
 2. /module/Attention.py defines the  Attention layer and /module/LIF.py,LIF_Module.py defines LIF module.
+
 3. The CSA-MS-ResNet104 model is available at https://pan.baidu.com/s/1Uro7IVSerV23OKbG8Qn6pQ?pwd=54tl (Code: 54tl).
+
+   
 
 ## **Citation**
 ```

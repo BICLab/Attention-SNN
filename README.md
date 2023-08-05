@@ -97,8 +97,8 @@ python -m torch.distributed.launch --master_port=[port] --nproc_per_node=[node_n
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Attention Spiking Neural Networks}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-18},
+  volume={45},
+  number={8},
+  pages={9393-9410},
   doi={10.1109/TPAMI.2023.3241201}}
 ```

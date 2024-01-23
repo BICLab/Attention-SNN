@@ -1,5 +1,7 @@
 # [Attention Spiking Neural Networks](https://ieeexplore.ieee.org/document/10032591)
 
+# [Attention Spiking Neural Networks - Supplementary Materials](https://ieeexplore.ieee.org/document/10032591)
+
 ## **Requirements**
 
 1. Python 3.7.4

@@ -1,6 +1,6 @@
 # [Attention Spiking Neural Networks](https://ieeexplore.ieee.org/document/10032591)
 
-# [Attention Spiking Neural Networks - Supplementary Materials](https://ieeexplore.ieee.org/document/10032591)
+# [Attention Spiking Neural Networks - Supplementary Materials](https://github.com/BICLab/Attention-SNN/issues/3)
 
 ## **Requirements**
 
